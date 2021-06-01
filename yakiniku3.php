@@ -1,9 +1,9 @@
 <?php
 
-define( 'DB_HOST', 'mysql57.mmgate.sakura.ne.jp');
-define( 'DB_USER', 'mmgate');
-define( 'DB_PASS', 'uQJ4Dt_ZZrSz');
-define( 'DB_NAME', 'mmgate_hikitugi');
+define( 'DB_HOST', '***');
+define( 'DB_USER', '***');
+define( 'DB_PASS', '***');
+define( 'DB_NAME', '***');
 
 
 date_default_timezone_set('Asia/Tokyo');
